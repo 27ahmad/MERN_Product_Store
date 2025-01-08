@@ -2,6 +2,14 @@
 
 A full-stack web application for managing products with CRUD operations built using the MERN stack and Chakra UI.
 
+## Screenshots
+
+### Home Page
+![Home Page](Screenshots/page1.png)
+
+### Product List
+![Product List](Screenshots/page2.png)
+
 ## Features
 
 - 📝 Create new products with name, price, and image URL
